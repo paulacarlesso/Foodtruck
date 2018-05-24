@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Foodtruck.telas
+namespace FoodTruck.Grafico
 {
     public partial class Form1 : Form
     {

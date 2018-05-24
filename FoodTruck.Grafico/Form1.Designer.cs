@@ -1,4 +1,4 @@
-﻿namespace Foodtruck.telas
+﻿namespace FoodTruck.Grafico
 {
     partial class Form1
     {
